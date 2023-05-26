@@ -1,17 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Aleo:wght@300;700&display=swap');
 
 :root {
-  line-height: 1.5;
+
   font-family: 'Aleo', serif;
   font-weight: 700;
   overflow-x: hidden;
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  font-synthesis: none;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%;
 }
 
 @media (min-width: 768px) {
