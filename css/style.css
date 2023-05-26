@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Aleo:wght@300;700&display=swap');
+
 :root {
   line-height: 1.5;
-  font-weight: 400;
+  font-family: 'Aleo', serif;
+  font-weight: 700;
   overflow-x: hidden;
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
